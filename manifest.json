@@ -1,0 +1,23 @@
+{
+    "id": "e680378e-7463-4139-9743-c6ef7d8b9d84",
+    "version": "1.0.1",
+    "platform": "all",
+    "arch": "all",
+    "name": "curve 格式扩展",
+    "logo": "/logo.png",
+    "keywords": [
+        "curve"
+    ],
+    "devTools": false,
+    "preview": {
+        "curve,vectornator": {
+            "thumbnail": {
+                "path": "thumbnail/curve.js",
+                "size": 400
+            },
+            "viewer": {
+                "path": "viewer/curve.html"
+            }
+        }
+    }
+}
